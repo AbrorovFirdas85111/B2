@@ -1,0 +1,15 @@
+.ichiga{
+    height: 400ppx;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+}
+.box{
+    background-color: rgba(36, 28, 28, 0.771);
+    color: white;
+    border-radius: 20px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
